@@ -8,7 +8,7 @@ vende equipamentos de informática e resolveu informatizar-se.
 
 • Funcionalidades:
 
-1) Cadastrar e alterar:
+1) Cadastrar, alterar e excluir:
 
 ▪ Usuário: (login, senha, nome, CPF, E-mail).
 
