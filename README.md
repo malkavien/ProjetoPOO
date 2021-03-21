@@ -9,6 +9,7 @@ vende equipamentos de informática e resolveu informatizar-se.
 • Funcionalidades:
 
 1) Cadastrar e alterar:
+
 ▪ Usuário: (login, senha, nome, CPF, E-mail).
 
 ▪ Equipamentos: (nome, peso, número de série, preço, quantidade, local
@@ -23,6 +24,7 @@ e responsável, fornecedor).
 ▪ Fornecedor: (nome, CPF, endereço).
 
 2) Pesquisar:
+
 ▪ Equipamentos (nome, número de série, responsável ou local).
 
 ▪ Cliente (nome, CPF).
@@ -36,6 +38,7 @@ e responsável, fornecedor).
 clientes.
 
 5) Relatório: Gerar um relatório de vendas por período (com detalhamento dos equipamentos).
+
 • Ferramentas/Plugins: O projeto será feito em Java nativo, não sendo necessário o uso de muitas ferramentas. O
 JavaFX da própria documentação do Java será usado. O Figma será usado para o esboço e a retirada dos dados de
 estilização (CSS).
